@@ -1,0 +1,21 @@
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Titanic dataset
+data/train.csv
+data/test.csv
+data/gender_submission.csv
+
+# Kaggle submission
+submission.csv
+titanic_submission.zip.zip
